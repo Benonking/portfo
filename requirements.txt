@@ -1,0 +1,9 @@
+blinker @ file:///croot/blinker_1737448726027/work
+click @ file:///croot/click_1754477934456/work
+Flask @ file:///croot/flask_1756453126864/work
+itsdangerous @ file:///io/buildout/croot/itsdangerous_1732920215085/work
+Jinja2 @ file:///croot/jinja2_1741710844255/work
+MarkupSafe @ file:///croot/markupsafe_1738584038848/work
+setuptools==78.1.1
+Werkzeug @ file:///croot/werkzeug_1737448706492/work
+wheel==0.45.1
